@@ -1,0 +1,51 @@
+.container {
+  margin-bottom: 1.5rem;
+}
+
+.uploadButton {
+  display: inline-block;
+  background-color: #e2f3ff;
+  color: #0069d9;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.uploadButton:hover {
+  background-color: #cce5ff;
+}
+
+/* Hide the actual file input */
+.fileInput {
+  display: none;
+}
+
+.previewContainer {
+  margin-top: 1rem;
+}
+
+.preview {
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+.removeButton {
+  background-color: #f8d7da;
+  border: none;
+  color: #721c24;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.removeButton:hover {
+  background-color: #f5c6cb;
+}
