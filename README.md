@@ -12,3 +12,4 @@ Adăugare și ștergere rețetă: Utilizatorii pot adăuga o rețetă nouă și 
 
 Este inclusă și logica de afișare a unui mesaj de eroare sau a unui loader în funcție de starea încărcării datelor. Această aplicație este construită cu un design responsive, pentru a se adapta pe diferite dispozitive.
 
+![image](https://github.com/user-attachments/assets/69d9be1a-163b-4ccc-8177-33bf34b8ad92)
